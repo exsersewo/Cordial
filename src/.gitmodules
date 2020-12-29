@@ -1,0 +1,4 @@
+[submodule "submodules/OPMLCore.NET"]
+	path = submodules/OPMLCore.NET
+	url = https://github.com/fnya/OPMLCore.NET
+	branch = master
